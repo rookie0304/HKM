@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="news_title" type="id" />
+    <item name="visibility_layout" type="id" />
+    <item name="news_content" type="id" />
+</resources>
